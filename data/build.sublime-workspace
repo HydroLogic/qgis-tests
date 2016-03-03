@@ -1,0 +1,685 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"land"
+			],
+			[
+				"geo",
+				"geojsonLayer"
+			],
+			[
+				"stam",
+				"stamenBase"
+			],
+			[
+				"conusa_",
+				"conusa_states"
+			],
+			[
+				"ADM",
+				"ADMIN_FIPS"
+			],
+			[
+				"ADMIN_",
+				"ADMIN_NAME"
+			],
+			[
+				"retur",
+				"returnPeriod"
+			],
+			[
+				"list",
+				"listUnique"
+			],
+			[
+				"fh",
+				"fhCol"
+			],
+			[
+				"ret",
+				"returnPeriod"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/matthewschmitt/projects/_a/fxns/mrsutils.py",
+			"settings":
+			{
+				"buffer_size": 967,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/matthewschmitt/projects/_base/data-prep/floodplains.sh",
+			"settings":
+			{
+				"buffer_size": 2244,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/matthewschmitt/projects/_base/data-prep/README.md",
+			"settings":
+			{
+				"buffer_size": 506,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/matthewschmitt/projects/_base/data-prep/rasterreference.txt",
+			"settings":
+			{
+				"buffer_size": 620,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/matthewschmitt/projects/_mvp/notes.txt",
+			"settings":
+			{
+				"buffer_size": 1048,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\n\n### Let's source all our boundary data first!\n\n\n\n##### [Small Scale Datasets for the US](http://nationalmap.gov/small_scale/atlasftp.html)\n\n* Counties\n    wget 'http://dds.cr.usgs.gov/pub/data/nationalatlas/countyp010g.shp_nt00934.tar.gz'\n*  States\n    wget 'http://dds.cr.usgs.gov/pub/data/nationalatlas/statesp010g.shp_nt00938.tar.gz'\n",
+			"file": "/Users/matthewschmitt/projects/qgis/download-data.md",
+			"file_size": 338,
+			"file_write_time": 131014454430000000,
+			"settings":
+			{
+				"buffer_size": 339,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/matthewschmitt/Downloads/shapes/nbi/nbi.txt",
+			"settings":
+			{
+				"buffer_size": 66455,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/matthewschmitt/projects/_a/fxns/scrapers.py",
+			"settings":
+			{
+				"buffer_size": 3651,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/matthewschmitt/projects/_a/fxns/rainfall.py",
+			"settings":
+			{
+				"buffer_size": 2339,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "\nBC\nshelter between guy lafond concisely frock eucalyptus pumpernickel chauffeured eccleston gunship ferri indiscretions insides insinuate jesus imperialists hern hollandaise hamman convey\n\n\n7f8a2e30-5a4d-4d9d-b534-263c470a6434\nSurftittysprinkles1!\n\n\n\n21122112",
+			"settings":
+			{
+				"buffer_size": 260,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 181.0,
+		"last_filter": "insta	",
+		"selected_items":
+		[
+			[
+				"insta	",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 579.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/matthewschmitt/projects/qgis"
+	],
+	"file_history":
+	[
+		"/Users/matthewschmitt/projects/_mvp/aws.sh",
+		"/Users/matthewschmitt/projects/_a/fxns/__init__.py",
+		"/Users/matthewschmitt/projects/_a/fxns/test.py",
+		"/Users/matthewschmitt/.bash_profile",
+		"/Users/matthewschmitt/projects/_a/__init__.py",
+		"/Users/matthewschmitt/projects/_a/scripts/__init__.py",
+		"/Users/matthewschmitt/projects/_web/emudat/scripts/__init__.py",
+		"/Users/matthewschmitt/projects/_web/emudat/notes.md",
+		"/Users/matthewschmitt/projects/_web/usgs-drip/index.html",
+		"/Users/matthewschmitt/projects/_web/emudat/scripts/scrape.py",
+		"/Users/matthewschmitt/projects/_web/emudat/test/usa.json",
+		"/Users/matthewschmitt/projects/_mvp/priv/mapboxnotes.sh",
+		"/Users/matthewschmitt/projects/web/notes.txt",
+		"/Users/matthewschmitt/Google Drive/scripts/FEMA.sh",
+		"/Users/matthewschmitt/projects/_base/data-prep/README.md",
+		"/Users/matthewschmitt/projects/_mvp/base/working/ned.sh",
+		"/Volumes/ssl.secured-hybrid.us/public_html/js/server.js",
+		"/Volumes/ssl.secured-hybrid.us/public_html/mapinfo.html",
+		"/Volumes/ssl.secured-hybrid.us/public_html/test.html",
+		"/Volumes/ssl.secured-hybrid.us/public_html/js/mapinfo.js",
+		"/Volumes/ssl.secured-hybrid.us/public_html/index.html",
+		"/Volumes/ssl.secured-hybrid.us/public_html/js/maps.js",
+		"/Volumes/ssl.secured-hybrid.us/public_html/resume.html",
+		"/Volumes/ssl.secured-hybrid.us/public_html/mapbasic.html",
+		"/Users/matthewschmitt/Google Drive/_web/css/resume.css",
+		"/Users/matthewschmitt/Google Drive/_web/resume_new.html",
+		"/Users/matthewschmitt/Google Drive/_web/geojson-dashboard/assets/js/app_raw.js",
+		"/Users/matthewschmitt/Google Drive/_web/geojson-dashboard/index.html",
+		"/Users/matthewschmitt/Google Drive/_web/geojson-dashboard/assets/js/app.js",
+		"/Users/matthewschmitt/Google Drive/_web/portfolio.html",
+		"/Users/matthewschmitt/Google Drive/_web/countyhover.html",
+		"/Users/matthewschmitt/Google Drive/_web/index_d3_topomap_v2.html",
+		"/Users/matthewschmitt/Google Drive/_web/index_d3_topomap.html",
+		"/Users/matthewschmitt/Google Drive/_web/.git/COMMIT_EDITMSG",
+		"/Users/matthewschmitt/projects/doclib/Notes/Flash Flood Notes",
+		"/Users/matthewschmitt/projects/data/rasterinterpolations/cleanFortran.py",
+		"/Users/matthewschmitt/projects/data/rainfall/rainfall analysis.py",
+		"/Users/matthewschmitt/projects/data/rasterinterpolations/cammand piped.sh",
+		"/Users/matthewschmitt/projects/data/rasterinterpolations/pipe2m.py",
+		"/Users/matthewschmitt/projects/geodjango/basicgeo/basicgeo/base.html",
+		"/Users/matthewschmitt/projects/geodjango/basicgeo/dfirm/views.py",
+		"/Users/matthewschmitt/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/matthewschmitt/projects/geodjango/basicgeo/static/templates/dfirm/map.html",
+		"/Users/matthewschmitt/projects/geodjango/basicgeo/dfirm/static/all_dfirm.html",
+		"/Users/matthewschmitt/projects/geodjango/basicgeo/static/templates/dfirm/nearby.html",
+		"/Users/matthewschmitt/projects/geodjango/basicgeo/dfirm/models.py",
+		"/Users/matthewschmitt/projects/geodjango/basicgeo/dfirm/admin.py",
+		"/Users/matthewschmitt/projects/geodjango/basicgeo/basicgeo/urls.py",
+		"/Users/matthewschmitt/projects/geodjango/basicgeo/dfirm/tests.py",
+		"/Users/matthewschmitt/projects/geodjango/basicgeo/dfirm/load.py",
+		"/Users/matthewschmitt/projects/geodjango/.git/COMMIT_EDITMSG",
+		"/Users/matthewschmitt/projects/geoshape/geoshape/geoshape/settings.py",
+		"/Users/matthewschmitt/projects/django_test/geodjangodev/geodjangodev/settings.py",
+		"/Users/matthewschmitt/projects/django_test/requirements.txt",
+		"/Users/matthewschmitt/.extra",
+		"/Users/matthewschmitt/.profile",
+		"/Users/matthewschmitt/.vimrc",
+		"/Users/matthewschmitt/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/matthewschmitt/Library/Application Support/Sublime Text 3/Packages/User/Python.sublime-settings",
+		"/Users/matthewschmitt/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"#!/usr/bin/env python\nimport matplotlib.pyplot as plt\nimport pandas as pd #this is how I usually import pandas\nimport sys\n\n#### READ CSV ####\ndef readCsv(inFile, yearRP):\n    file = inFile\n    print \"Reading and Munging \" + file + \"...\\n\"\n    data = pd.read_csv(file) \n    # Drop the columns we don't need right now and multiply the height above DEM by the meter coefficient\n    data = data.drop(data.columns[[1, 4, 6]], axis=1)\n    data['DEMplusFH_FT']= data['DEMplusFH_FT']*3.2808\n    # Rename so that we can then add it to the diction\n    fhCol = \"demfh_m\" + yearRP\n    # Lowercase all the fucking names\n    data.columns = [x.lower() for x in data.columns]\n    # Add in a god damn cellid so we can start to build a unique dictionary of CellID\n    data['cellid']=((data['long_hazgrd']+360)*1000.0)*1000000.0+((data['lat_hazgrd']+90)*1000.0)\n    # Rename the columns god damnit\n    data.columns = ['huc4', 'longitude','latitude' , fhCol, 'cellid']\n    # Reindex the fuckers\n    data = data.reindex(columns=['huc4', 'cellid', 'longitude','latitude' , fhCol])\n    print \"Finished reading and parsing that one...\"\n    return data\n\ndef cleanInput(file):\n    # Grab the run date from the file name\n    date = file[:8]\n    startYr = file.find('_LP3_') + 5\n    endYr = file.find('_Grid')\n    returnPeriod = file[startYr:endYr]\n    # print \"Working on \" + returnPeriod + \"... Be Patient\"\n    data = readCsv(file, returnPeriod)\n    outTable = date + '_' + returnPeriod + '_fh_m'\n    print \"Writing out a csv for you...\"\n    listUnique = data['huc4'].unique()\n    huc2 = str(listUnique[0])[:2]\n    # hucIdx[huc2] = listUnique\n    data.set_index(['huc4', 'cellid'], inplace=True)\n    hucIdx[huc2] = data\n    # print data[:5]\n    # Out to CSV\n    # data.to_json('huc18_100yr.json', orient=\"index\")\n    outCsv = outTable +'.csv'\n    data.to_csv(outCsv)\n    return data\n\n####\n# Loop through the .exe files and run the script in parallel\n# output the text files into a folder and aggregate\n####\n# Create a raw dictionary to hold the structure of our Database\n# The structure should be HUC2 > HUC4 > CELLID hash value lookup\n# Iterate through the files ending with LongLat.csv\n# Save them as their 20|50|100|200|500|1000yr files\n# Return the panda data table as an object which we can append to the dictionary \n\n\n\nhucIdx={}\n\nfile = '20150908_FloodPlain_Analysis_LP3_1000yr_Grid__FINAL_HAZ_LongLat.csv'\n\ndata = cleanInput(file)\ndata.to_json('huc18_100yr.json', orient=\"index\")\n",
+			"{\n",
+			" .",
+			");\n",
+			"rocks",
+			"'-"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/matthewschmitt/projects/_a/fxns/mrsutils.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 967,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								41,
+								18
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/matthewschmitt/projects/_base/data-prep/floodplains.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2244,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/matthewschmitt/projects/_base/data-prep/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 506,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/matthewschmitt/projects/_base/data-prep/rasterreference.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 620,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/matthewschmitt/projects/_mvp/notes.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1048,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/matthewschmitt/projects/qgis/download-data.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 339,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								141,
+								141
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/matthewschmitt/Downloads/shapes/nbi/nbi.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 66455,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/matthewschmitt/projects/_a/fxns/scrapers.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3651,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								41,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/matthewschmitt/projects/_a/fxns/rainfall.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2339,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								649,
+								649
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"open_with_edit": true,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 260,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								167,
+								167
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"default_dir": "/Users/matthewschmitt/projects/_a",
+							"incomplete_sync": null,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 114.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "build.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
